@@ -25,4 +25,10 @@
 "Move Notification View" = "Sposta le notifiche";
 "Artwork Size" = "Grandezza Artwork";
 "Show Artwork" = "Mostra Artwork";
+"Additional Options"="Opzioni Aggiuntive";
+"Allow put the same icon"="Consenti di usare la stessa icona";
+"Artwork Position (X)"="Posizione Artwork (X)";
+"Artwork Position (Y)"="Posizione Artwork (Y)";
+
+
 }
